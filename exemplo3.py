@@ -14,4 +14,4 @@ while inicio < fim:
     areazinha = base * altura
     areazona += areazinha
     inicio += delta
-print(2 * areazona)
+print(2 * areazona) 
